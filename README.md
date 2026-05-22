@@ -108,7 +108,7 @@ Esse projeto foi desenvolvido com o objetivo de praticar:
 
 # 👨‍💻 Autor
 
-Desenvolvido por Felipe.
+Desenvolvido por Filipe
 
 GitHub:
 https://github.com/Lipe07-xds
